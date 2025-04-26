@@ -4,7 +4,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kim-Do-Gyun&show_icons=true&theme=gruvbox_light"/>
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wherry03&theme=warm)
-
+[![https://solved.ac/profile/wherry03](http://mazassumnida.wtf/api/mini/generate_badge?boj=wherry03)](https://solved.ac/wherry03)
 
 <h2>💻 Language</h2>
 
